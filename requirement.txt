@@ -1,0 +1,13 @@
+dash
+dash-bootstrap-components
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+plotly
+lifelines
+xgboost
+shap
+openpyxl
+dash-ag-grid
